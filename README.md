@@ -1,12 +1,12 @@
 ## 👋 Welcome! I'm Anthony Partida
 
-A Business Administration student at Cal Poly, San Luis Obispo, concentrating in **Information Systems**, passionate about **data analytics**, **business intelligence**, and **technology-driven problem solving**.
+A Business Administration grad from Cal Poly, San Luis Obispo. I concentrated in **Information Systems**, passionate about **data analytics**, **business intelligence**, and **technology-driven problem solving**.
 
 ---
 
 ## About Me
 
-As a student and aspiring data analyst, I bring a blend of academic experience, hands-on projects, and real-world leadership. At Cal Poly, I’ve developed technical skills through coursework and certifications in R (Studio), Python, and data analytics, while applying them in capstone projects, business case analyses, and internship work.
+An aspiring data analyst, I bring a blend of academic experience, hands-on projects, and real-world leadership from both being a project manager and a head lifeguard. At Cal Poly, I’ve developed technical skills through coursework and certifications in R (Studio), Python, and data analytics, while applying them in capstone projects, business case analyses, and internship work.
 
 My professional background includes leading lifeguard teams as a Head Guard and mentoring incoming transfer students. I excel in roles that require cross-functional coordination, team work, and data-driven insight. 
 
