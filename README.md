@@ -6,7 +6,7 @@ A Business Administration grad from Cal Poly, San Luis Obispo. I concentrated in
 
 ## About Me
 
-An aspiring data analyst, I bring a blend of academic experience, hands-on projects, and real-world leadership from both being a project manager and a head lifeguard. At Cal Poly, I’ve developed technical skills through coursework and certifications in R (Studio), Python, and data analytics, while applying them in capstone projects, business case analyses, and internship work.
+An aspiring Data Analyst and Data Engineer, I bring a blend of academic experience, hands-on projects, and real-world leadership from both being a project manager and a head lifeguard. At Cal Poly, I’ve developed technical skills through coursework and certifications in R (Studio), Python, and data analytics, while applying them in capstone projects, business case analyses, and internship work.
 
 My professional background includes leading lifeguard teams as a Head Guard and mentoring incoming transfer students. I excel in roles that require cross-functional coordination, team work, and data-driven insight. 
 
