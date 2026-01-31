@@ -1,16 +1,14 @@
 ## 👋 Welcome! I'm Anthony Partida
 
-A Business Administration grad from Cal Poly, San Luis Obispo. I concentrated in **Information Systems**, passionate about **data analytics**, **business intelligence**, and **technology-driven problem solving**.
+I'm a Business Administration grad from Cal Poly, San Luis Obispo. I concentrated in **Information Systems**, passionate about **data analytics**, **business intelligence**, and **technology-driven problem solving**.
 
 ---
 
 ## About Me
 
-An aspiring Data Analyst and Data Engineer, I bring a blend of academic experience, hands-on projects, and real-world leadership from both being a project manager and a head lifeguard. At Cal Poly, I’ve developed technical skills through coursework and certifications in R (Studio), Python, and data analytics, while applying them in capstone projects, business case analyses, and internship work.
+An aspiring Business Analyst, I bring a blend of academic experience, hands-on projects, and real-world leadership from both being a project manager and a head lifeguard. At Cal Poly, I’ve developed technical skills through coursework and certifications in R (Studio), Python, and data analytics, while applying them in capstone projects, business case analyses, and work.
 
-My professional background includes leading lifeguard teams as a Head Guard and mentoring incoming transfer students. I excel in roles that require cross-functional coordination, team work, and data-driven insight. 
-
-Whether it's building dashboards, analyzing data sets, or optimizing business processes, I focus on clarity, efficiency, and impact. I’m actively pursuing roles in **Data Analytics or Data Science**.
+Whether it's building dashboards, analyzing data sets, or optimizing business processes, I focus on clarity, efficiency, and impact. I’m actively pursuing roles in **Data Analytics or Business Analysis**
 
 ---
 
@@ -26,7 +24,7 @@ Whether it's building dashboards, analyzing data sets, or optimizing business pr
 ### Languages & Libraries
 - Python (Pandas, NumPy, Matplotlib, Scikit-Learn)
 - SQL (MySQL, PostgreSQL)
-- R
+- R (RStudio
 
 ### Data Analytics & Visualization
 - Tableau
@@ -39,6 +37,8 @@ Whether it's building dashboards, analyzing data sets, or optimizing business pr
 - Jupyter Notebook
 - Anaconda
 - R Studio
+- VS Code
+- PyCharm
 
 
 ---
@@ -74,8 +74,8 @@ Whether it's building dashboards, analyzing data sets, or optimizing business pr
 
 ## ⚡ Fun Facts
 
-In my spare time, I enjoy playing video games, watching Formula 1, traveling to new places, and cooking Mexican food.
+In my spare time, I enjoy playing video games, DJing, watching Formula 1, traveling to new places, and making Chicago style Deep Dish.
 
 ---
 
-**Let’s connect if you’re looking for someone who can build, analyze, and communicate tech solutions with impact.**
+**Let’s connect!.**
