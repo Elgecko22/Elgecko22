@@ -68,7 +68,6 @@ Whether it's building dashboards, analyzing data sets, or optimizing business pr
 ## Certifications & Training
 
 - IBM Data Science Professional Certificate *(6/2025)*
-- Google Advanced Data Analytics *(target: Summer 2025)*
 
 ---
 
